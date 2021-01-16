@@ -1,8 +1,8 @@
 ## 安装
 
 ```bash
-git clone https://github.com/zcmimi/v2ray-api
-cd v2ray-api
+git clone https://github.com/zcmimi/v2ray-api-release
+cd v2ray-api-release
 bash install.sh
 ```
 
