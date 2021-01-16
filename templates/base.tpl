@@ -1,7 +1,7 @@
 {
     "log": {
-        "access": "v2ray-core/access.log",
-        "error": "v2ray-core/error.log",
+        "access": "{{.currentPath}}v2ray-core/access.log",
+        "error": "{{.currentPath}}v2ray-core/error.log",
         "loglevel": "warning"
     },
     "stats": {},
