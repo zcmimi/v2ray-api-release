@@ -8,7 +8,7 @@ bash install.sh
 
 安装目录: `/usr/local/v2rayApi/`
 
-编辑配置: `/usr/local/v2rayApi/config.json`
+配置文件: `/usr/local/v2rayApi/config.json`
 
 启动: `systemctl start v2rayApi`
 
