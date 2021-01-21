@@ -28,7 +28,7 @@
     "inbounds": [
         {
             "tag": "api",
-            "port": {{.apiPort}},
+            "port": {{.grpcPort}},
             "protocol": "dokodemo-door",
             "settings": {"address": "127.0.0.1"}
         },
