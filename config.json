@@ -1,9 +1,0 @@
-{
-    "listen": "0.0.0.0:23333",
-    "key":"v2rayApi",
-    "v2ray":{
-        "apiPort":23334,
-        "type":"ws",
-        "port":23335,"wsPath":"/localhost"
-    }
-}
